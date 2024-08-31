@@ -1,0 +1,33 @@
+.sidebar{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    background-color: white;
+    width: 150px;
+    padding-top: 5px
+}
+.sidebar-link{
+    height: 74px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    cursor: pointer;
+}
+.sidebar-link{
+    height: 72px;
+}
+.sidebar-link img{
+    height: 25px;
+    margin-bottom: 4px;
+}
+.sidebar-link div{
+    font-family: arial;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.Instagram_logo{
+    width: 100px;
+    height: 150px;
+}
